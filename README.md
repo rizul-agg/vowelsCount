@@ -4,7 +4,7 @@ Java program that loads all words and determines the average number of vowels pe
 ## How to run this project
 1. Clone the project repo in your local
 2. Import the project as a maven project on any IDE
-3. Make sure you have JDK8 installed
+3. Make sure you have JDK8 installed 
 4. Go to the main App.java file and Run the project as maven project
 5. Output.txt file will be generated parallel to the Input.txt file in the folder structure
 
